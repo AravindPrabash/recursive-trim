@@ -1,0 +1,23 @@
+{
+  "name": "recursive-trim",
+  "version": "1.0.0",
+  "description": "Recursively trims all string values in objects or arrays.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "keywords": [
+    "trim",
+    "recursive",
+    "sanitize",
+    "object",
+    "array",
+    "string",
+    "deep",
+    "cleanup"
+  ],
+  "author": "Aravind Prabash",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aravindprabash/recursive-trim"
+  }
+}
