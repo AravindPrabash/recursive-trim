@@ -1,6 +1,6 @@
 {
   "name": "recursive-trim",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Recursively trims all string values in objects or arrays.",
   "main": "index.js",
   "types": "index.d.ts",
